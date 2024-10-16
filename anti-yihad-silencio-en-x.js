@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Bloquear contenido árabe y banderas en Twitter
+// @name         Anti-Yihad-Silencio-en-X
 // @namespace    http://tampermonkey.net/
-// @version      1.2
-// @description  Oculta tweets y perfiles en árabe, así como banderas de ciertos países en Twitter
-// @author       Tu Nombre
-// @match        https://x.com/*
+// @version      1.0
+// @description  Si estás cansado de que te aparezca contenido de yihadistas islámicos, este script hace que no aparezca más en la plataforma X.
+// @author       Crash-Night
+// @match        https://twitter.com/*
 // @grant        none
 // ==/UserScript==
 

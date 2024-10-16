@@ -124,6 +124,11 @@
         "🇵🇸 The Holocaust",
         "🇵🇸",
         "IsraHell is exterminating",
+        "BREAKING: HEZBOLLAH",
+        "HEZBOLLAH",
+        "ISLAM",
+        "islam",
+        "ALUAKBA",
     ];
 
     // Función para detectar contenido relacionado con el extremismo islamista
